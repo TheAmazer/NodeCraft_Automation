@@ -1,4 +1,3 @@
-Visual & UX Enhancements
 Social Media Links - Interactive icons for Instagram, X, Discord with brand colors----------(DONE)
 Features Menu - Interactive modal with video showcases (Connections, UI, Hotkeys)----------(DONE)
 Bug Report - Moved from in-app to landing page footer icon----------------------------------(DONE)
@@ -67,4 +66,5 @@ Hex Display	Shows value in hexadecimal format
 Combined I/O
 Component	Description
 LCD Screen	Multi-line text display with input formatting
+
 Probe Point	Debug node that shows live value inline on page
